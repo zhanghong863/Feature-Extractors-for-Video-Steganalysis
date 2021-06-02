@@ -14,4 +14,4 @@ SUPERB|609|Transform Coefficient|[4]
 
 [3] H. Zhang, W. You, and X. Zhao, "A Video Steganalytic Approach Against Quantized Transform Coefficient-Based H.264 Steganography by Exploiting In-Loop Deblocking Filtering," IEEE Access, vol. 8, pp. 186862–186878, 2020.
 
-[4] Y. Cao, H. Zhang, X. Zhao, and X. He, "Steganalysis of H.264/AVC Videos Exploiting Subtractive Prediction Error Blocks," IEEE TIFS, ACCEPTED, 2021
+[4] Y. Cao, H. Zhang, X. Zhao, and X. He, “Steganalysis of H.264/AVC Videos Exploiting Subtractive Prediction Error Blocks,” IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3326–3338, 2021.
